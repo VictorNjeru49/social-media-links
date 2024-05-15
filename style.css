@@ -59,7 +59,7 @@ p{
 .blog:hover{
     background-color: hsl(75, 94%, 57%);
     color: black;
-    transition: 0.5s;
+    transition: 0.75s;
 }
 @media(max-width:600px) {
     header{
